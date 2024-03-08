@@ -12,7 +12,7 @@
 *Requirements:*
 - "Homepage": A landing page introducing the mission and services of the shelter.
 - "Adoptable Pets" Page: A page showcasing profiles and information of animals in need of adoption.
-- "Get Involved" Page: Information about volunteering opportunities and a volunteer application form.
+- "Services" Page: Information about volunteering opportunities and a volunteer application form.
 - "Donate" Page: Information about donation options and how to make donations.
 - "Contact" Page: A contact form and contact information for reaching out to the shelter.
 
