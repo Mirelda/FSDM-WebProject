@@ -9,7 +9,7 @@ This project aims to create a website for a local homeless animals shelter. Its 
 - An "Adoptable Pets" page featuring photos and information about animals in need of homes.(Services)
 - A "Get Involved" and "Donate" page with information on volunteering and making donations.
 - A contact page with information on how to reach out to the shelter.(Footer)
-- 
+  
 
 ## Getting Started
 
